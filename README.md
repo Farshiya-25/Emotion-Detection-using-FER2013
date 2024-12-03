@@ -1,4 +1,4 @@
-# Emotion-Detection-using-FER2013
+# Emotion Detection from User-uploaded Images
 This repository contains code for training a Convolutional Neural Network (CNN) model on the FER2013 dataset for emotion detection. The model is implemented using PyTorch, and the goal is to classify facial expressions into one of seven categories: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.
 
 ## Table of contents
